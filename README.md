@@ -1,2 +1,2 @@
 # WTU-NLP
-WTU-NIP小组
+WTU-NIP学习小组
